@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Bvalue"]
+	path = Bvalue
+	url = https://github.com/zhaoyi1026/bvalue
+	shallow = true
+	registered = true
+[submodule "cap"]
+	path = cap
+	url = https://github.com/zhaoyi1026/cap
+	shallow = true
+	registered = true
+[submodule "cfma"]
+	path = cfma
+	url = https://github.com/zhaoyi1026/cfma
+	shallow = true
+	registered = true
