@@ -18,3 +18,8 @@
 	url = https://github.com/zhaoyi1026/cfma
 	shallow = true
 	registered = true
+[submodule "gma"]
+	path = gma
+	url = https://github.com/cran/gma
+	shallow = true
+	registered = true
