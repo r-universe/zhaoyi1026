@@ -5,9 +5,3 @@
 [submodule "Bvalue"]
 	path = Bvalue
 	url = https://github.com/zhaoyi1026/bvalue
-[submodule "cfma"]
-	path = cfma
-	url = https://github.com/zhaoyi1026/cfma
-[submodule "gma"]
-	path = gma
-	url = https://github.com/cran/gma
